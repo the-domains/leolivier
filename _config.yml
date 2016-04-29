@@ -1,29 +1,18 @@
-name: leolivier
-favicon: null
-layout_spectrum: 0.56338
-typography_spectrum: 0.85675
-title: leolivierphotography
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#000000'
-    - '#b2a8a6'
-    - '#efeff1'
-    - '#7a7571'
-    - '#3b3b3b'
+    - '#B2A8A6'
+    - '#EFEFF1'
+    - '#7A7571'
+    - '#3B3B3B'
   brandStrength: 1
   lightness: 0.5
-  saturation: 0
   rhythmicContrast: 0
+  saturation: 0
+cta: {}
+layout_spectrum: 0.56338
+name: leolivier
+opengraph: {}
 purpose: []
+typography_spectrum: 0.85675
